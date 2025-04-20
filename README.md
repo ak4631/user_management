@@ -1,6 +1,7 @@
 # 👥 User Management System (React + PHP + MySQL)
 A full-stack user management system built using **React** for the frontend and **PHP** with **MySQL** for the backend. This project demonstrates CRUD operations with proper validations, CORS handling, and secure password hashing.
 
+**!! Use .env for other configuration. didn't git-ignored for better understanding.!!**
 ---
 
 ## 📚 Features
