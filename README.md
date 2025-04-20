@@ -27,6 +27,8 @@ npm start
 ```
 ---
 ## Database Setup
+
+```
 CREATE DATABASE user_data;
 
 USE DATABASE user_data;
@@ -39,6 +41,7 @@ CREATE TABLE `users` (
   `dob` DATE NOT NULL,
   `is_deleted` TINYINT(1) DEFAULT 0
 );
+```
 
 ## Validation
 1.Name Cannot Contain Special Characters or Numbers
