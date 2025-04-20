@@ -43,3 +43,14 @@ CREATE TABLE `users` (
 ## Validation
 1.Name Cannot Contain Special Characters or Numbers
 2.Password Should be greater than 6 characters
+
+## Images
+
+### Screen View:
+![Screen](screenshots/screen.png)
+
+### Duplicate Email:
+![Email Validation](screenshots/2.png)
+
+### Delete Confirmation:
+![Delete](screenshots/3.png)
